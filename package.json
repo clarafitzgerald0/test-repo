@@ -1,0 +1,23 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarafitzgerald0/test-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clarafitzgerald0/test-repo/issues"
+  },
+  "homepage": "https://github.com/clarafitzgerald0/test-repo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
